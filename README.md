@@ -5,14 +5,14 @@ This repository contains code, prompts, and output data for the research paper *
 
 ## Repository Structure
 ```
-- dataset/                # This folder should contain the dataset files (currently empty)
-- output/                 # This folder should contain the generated output files (currently empty)
+- dataset/                # This folder should contain the dataset files 
+- output/                 # This folder should contain the generated output files 
 - prompts/                # Contains prompts used to generate toxicity scores and explanations
 - scripts/                # Contains Jupyter notebooks for model training and hypothesis testing
 ```
 
 ## Dataset and Output
-The `dataset` and `output` folders are currently empty. The dataset and output files can be downloaded from the following Google Drive link:
+The dataset and output files can be downloaded from the following Google Drive link:
 
 [Download Dataset and Output](https://drive.google.com/file/d/1S-P_hc3hDTfwhPnNjoiOG_fCPh4fKiqY/view?usp=sharing)
 
